@@ -7,7 +7,7 @@
   "Layout": {
     "about": "介绍",
     "show_more": "展开",
-    "listen": "收听方式",
+    // "listen": "收听方式",
     "homepage": "首页",
     "hosted_by": "主播"
   },
