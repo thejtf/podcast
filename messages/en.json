@@ -7,7 +7,7 @@
   "Layout": {
     "about": "About",
     "show_more": "Show more",
-    "listen": "Listen",
+    // "listen": "Listen",
     "homepage": "Homepage",
     "hosted_by": "Hosted by"
   },
